@@ -1,0 +1,13 @@
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\bin\Release\net8.0\MakeItSimple.deps.json
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\bin\Release\net8.0\MakeItSimple.dll
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\bin\Release\net8.0\MakeItSimple.pdb
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.Properties.Resources.resources
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.csproj.GenerateResource.cache
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.GeneratedMSBuildEditorConfig.editorconfig
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.AssemblyInfoInputs.cache
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.AssemblyInfo.cs
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.csproj.CoreCompileInputs.cache
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.dll
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\refint\MakeItSimple.dll
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.pdb
+D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\ref\MakeItSimple.dll
