@@ -11,3 +11,17 @@ D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\
 D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\refint\MakeItSimple.dll
 D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.pdb
 D:\LocalRepository\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\ref\MakeItSimple.dll
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\bin\Release\net8.0\MakeItSimple.deps.json
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\bin\Release\net8.0\MakeItSimple.dll
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\bin\Release\net8.0\MakeItSimple.pdb
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.Properties.Resources.resources
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.csproj.GenerateResource.cache
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.GeneratedMSBuildEditorConfig.editorconfig
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.AssemblyInfoInputs.cache
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.AssemblyInfo.cs
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.csproj.CoreCompileInputs.cache
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.sourcelink.json
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.dll
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\refint\MakeItSimple.dll
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\MakeItSimple.pdb
+D:\PMSquareGitHub\MakeItSimple\MakeItSimpleSol\MakeItSimple\obj\Release\net8.0\ref\MakeItSimple.dll
