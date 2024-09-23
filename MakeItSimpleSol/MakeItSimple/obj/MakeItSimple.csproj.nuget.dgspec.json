@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LocalRepository\\MakeItSimple\\MakeItSimpleSol\\MakeItSimple\\MakeItSimple.csproj": {}
+    "D:\\PMSquareGitHub\\MakeItSimple\\MakeItSimpleSol\\MakeItSimple\\MakeItSimple.csproj": {}
   },
   "projects": {
-    "D:\\LocalRepository\\MakeItSimple\\MakeItSimpleSol\\MakeItSimple\\MakeItSimple.csproj": {
+    "D:\\PMSquareGitHub\\MakeItSimple\\MakeItSimpleSol\\MakeItSimple\\MakeItSimple.csproj": {
       "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "D:\\LocalRepository\\MakeItSimple\\MakeItSimpleSol\\MakeItSimple\\MakeItSimple.csproj",
+        "projectUniqueName": "D:\\PMSquareGitHub\\MakeItSimple\\MakeItSimpleSol\\MakeItSimple\\MakeItSimple.csproj",
         "projectName": "PMSquareSoft.MakeItSimple",
-        "projectPath": "D:\\LocalRepository\\MakeItSimple\\MakeItSimpleSol\\MakeItSimple\\MakeItSimple.csproj",
+        "projectPath": "D:\\PMSquareGitHub\\MakeItSimple\\MakeItSimpleSol\\MakeItSimple\\MakeItSimple.csproj",
         "packagesPath": "C:\\Users\\NavNa\\.nuget\\packages\\",
-        "outputPath": "D:\\LocalRepository\\MakeItSimple\\MakeItSimpleSol\\MakeItSimple\\obj\\",
+        "outputPath": "D:\\PMSquareGitHub\\MakeItSimple\\MakeItSimpleSol\\MakeItSimple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NavNa\\AppData\\Roaming\\NuGet\\NuGet.Config",
